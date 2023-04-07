@@ -16,6 +16,6 @@ class User extends BaseController
 
     public function loginBtn()
     {
-        echo "LOGIN";
+        echo "LOGIN"; /** Button Login */
     }
 }
